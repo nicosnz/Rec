@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Documents\Programacion\Recuperatorio\Rec\Recu\bin\Debug\net9.0\Recu.exe
+C:\Users\LENOVO\Documents\Programacion\Recuperatorio\Rec\Recu\bin\Debug\net9.0\Recu.deps.json
+C:\Users\LENOVO\Documents\Programacion\Recuperatorio\Rec\Recu\bin\Debug\net9.0\Recu.runtimeconfig.json
+C:\Users\LENOVO\Documents\Programacion\Recuperatorio\Rec\Recu\bin\Debug\net9.0\Recu.dll
+C:\Users\LENOVO\Documents\Programacion\Recuperatorio\Rec\Recu\bin\Debug\net9.0\Recu.pdb
+C:\Users\LENOVO\Documents\Programacion\Recuperatorio\Rec\Recu\obj\Debug\net9.0\Recu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\Programacion\Recuperatorio\Rec\Recu\obj\Debug\net9.0\Recu.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\Programacion\Recuperatorio\Rec\Recu\obj\Debug\net9.0\Recu.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\Programacion\Recuperatorio\Rec\Recu\obj\Debug\net9.0\Recu.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Programacion\Recuperatorio\Rec\Recu\obj\Debug\net9.0\Recu.sourcelink.json
+C:\Users\LENOVO\Documents\Programacion\Recuperatorio\Rec\Recu\obj\Debug\net9.0\Recu.dll
+C:\Users\LENOVO\Documents\Programacion\Recuperatorio\Rec\Recu\obj\Debug\net9.0\refint\Recu.dll
+C:\Users\LENOVO\Documents\Programacion\Recuperatorio\Rec\Recu\obj\Debug\net9.0\Recu.pdb
+C:\Users\LENOVO\Documents\Programacion\Recuperatorio\Rec\Recu\obj\Debug\net9.0\Recu.genruntimeconfig.cache
+C:\Users\LENOVO\Documents\Programacion\Recuperatorio\Rec\Recu\obj\Debug\net9.0\ref\Recu.dll
