@@ -1,9 +1,9 @@
 ﻿namespace Recu{
     class Program{
         static void Main(string[] args){
-            Auto car = new Auto("Auto","Combustible");
-            Bicicleta bici = new Bicicleta("Bicicleta","Pedales");
-            Scooter scooter = new Scooter("Scooter","electrico");
+            Auto car = new Auto("Auto","Terreste","Combustible");
+            Bicicleta bici = new Bicicleta("Bicicleta","Terreste","Pedales");
+            Scooter scooter = new Scooter("Scooter","Terreste","electrico");
             Transporte[] trans = new Transporte[3];
             trans[0] = car;
             trans[1] = bici;
@@ -26,7 +26,7 @@
                 if(opcion == 1){
                     for (int i = 0; i < trans.Length; i++)
                     {
-                        Console.WriteLine($"\t{i+1}.- {trans[i].getTipo()}");
+                        Console.WriteLine($"\t{i+1}.- Tipo de transporte: {trans[i].getTipo()}\n\tNombre del Transporte: {trans[i].getNombre()}\n");
                         
                     }   
                     Console.ReadKey();
@@ -36,6 +36,7 @@
                 if(opcion == 2){
                     for (int i = 0; i < trans.Length; i++)
                     {
+                        Console.Write($"\t{i+1}.- {trans[i].getNombre()} ");
                         trans[i].moverse();
                         
                     }   

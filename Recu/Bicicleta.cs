@@ -2,7 +2,7 @@ namespace Recu{
     class Bicicleta:Transporte{
 
         string tipoCombustible;
-        public Bicicleta(string tipo, string tipoCombus):base(tipo){
+        public Bicicleta(string nombreTrans,string tipoTrans, string tipoCombus):base(nombreTrans,tipoTrans){
             tipoCombustible = tipoCombus;
         }
         public override void moverse()
